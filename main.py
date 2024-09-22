@@ -1,13 +1,16 @@
 import pandas as pd
+import matplotlib.pyplot as plt
+
 import torch
+
 from torch import nn
 from torch.utils.data import DataLoader, Dataset
 from torch_geometric.nn import GCNConv, GATConv
 from torch_geometric.data import Data, Batch
+
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
-import matplotlib.pyplot as plt
 
 torch.manual_seed(42)
 
