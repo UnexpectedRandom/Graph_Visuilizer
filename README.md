@@ -5,7 +5,7 @@ This project aims to predict flu cases based on various factors using a deep lea
 ## Project Structure
 
 - `generate_flu_data.py`: Contains functions to generate a synthetic dataset of flu cases.
-- `flu_prediction_model.py`: Implements the advanced deep learning model for flu prediction.
+- `flu_prediction_model.py`: Once your run the `generate_flu_data.py` it implements the advanced deep learning model for flu prediction.
 - `flu_data.csv`: The generated dataset used for training and testing the model.
 
 ## Dataset Generation
