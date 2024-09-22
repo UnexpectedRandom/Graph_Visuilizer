@@ -57,7 +57,7 @@ For the license file, you can create a `LICENSE` file with the following content
 ```plaintext
 MIT License
 
-Copyright (c) [year] [your name]
+Copyright (c) 2024 UnexpectedRandom
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
